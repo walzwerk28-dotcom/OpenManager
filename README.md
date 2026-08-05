@@ -1,0 +1,2 @@
+# OpenManager
+OpenManager Football Manager
